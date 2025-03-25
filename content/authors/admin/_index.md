@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Yang miao
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yang miao
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Miao
+last_name: Yang
 
 # Status emoji
 status:
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: '1094967659@qq.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
